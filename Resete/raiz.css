@@ -1,0 +1,12 @@
+:root {
+    --background: #121213;
+    --cor-de-fundo: #000000;
+    --cor-primaria: #FFFFFF;
+    --preto: #000;
+    --fonte-primaria: "Geologica", sans-serif;
+    --fonte-secundaria: Arial, Helvetica, sans-serif;
+    --tamanho-navbar: 100%;
+    --texto-do-site: "Parkinsans", sans-serif;
+    --tamanho-texto: 250%;
+    --tamanho-pr: 150%;
+}
